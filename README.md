@@ -1,7 +1,7 @@
 # Geheimzahl erraten (C#)
 
 Dieses Konsolenprogramm generiert eine geheime Zahl zwischen 1 und 100 und lässt den Nutzer versuchen, diese zu erraten.  
-Nach jedem Versuch gibt das Programm Hinweise („zu hoch“ oder „zu niedrig“) und zählt, wie viele Versuche benötigt wurden.
+Nach jedem Versuch gibt das Programm Hinweise („zu hoch“ oder „zu niedrig“) und gibt am Ende aus, wie viele Versuche benötigt wurden.
 
 ---
 
